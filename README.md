@@ -5,13 +5,17 @@
  2. Machine Learning in Bangla <https://ml.howtocode.com.bd>
  3. Hand's on Machined Learning with Rakibul Hasan <https://rakibul-hassan.gitbook.io/mlbook-titanic/>
  4. ML Books by Manash <https://mlbook.manash.io>
- 5. Applied Statistics and Data Science in Bangla <https://asds.dataskool.org>
+ 5. Applied Statistics and Data Science in Bangla(Incomplete) <https://asds.dataskool.org>
 
 ### ML Bangla Datasets
  1. https://bengali.ai/datasets/
 
 ### Linear Algebra in Bangla
  1. <http://shikkhok.com/কোর্স-তালিকা/linear-algebra/>
+ 2. লিনিয়ার-অ্যালজেবরা-পর্ব-১<https://medium.com/প্রোগ্রামিং-পাতা/লিনিয়ার-অ্যালজেবরা-পর্ব-১-d4111a619a88>
+ 3. লিনিয়ার-অ্যালজেবরা-পর্ব-২<https://medium.com/প্রোগ্রামিং-পাতা/লিনিয়ার-অ্যালজেবরা-পর্ব-২-b7dab158ccbf>
+ 4. লিনিয়ার-অ্যালজেবরা-পর্ব-৩<https://medium.com/প্রোগ্রামিং-পাতা/লিনিয়ার-অ্যালজেবরা-পর্ব-৩-bde79ef7739f>
+ 5. লিনিয়ার-অ্যালজেবরা-পর্ব-৪<https://medium.com/প্রোগ্রামিং-পাতা/লিনিয়ার-অ্যালজেবরা-পর্ব-৪-be97b2af5b80>
 
 ### Statistics in Bangla
 1. পরিসংখ্যান-পরিচিতি <http://www.shikkhok.com/কোর্স-তালিকা/পরিসংখ্যান-পরিচিতি/>
