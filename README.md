@@ -21,7 +21,7 @@
  2. Banglay Python <https://python.howtocode.com.bd>
  3. Python 101 <http://www.shikkhok.com/কোর্স-তালিকা/python101/>
 
-#### R programming in Bangla
+### R programming in Bangla
 1. <http://www.shikkhok.com/কোর্স-তালিকা/intro-to-r/>
 
 ### Article
